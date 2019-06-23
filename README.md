@@ -16,8 +16,6 @@ The objective is to collect data on amusement parks, their rides, categories of 
 2)	Design a Python Flask powered RESTful API and store the data in MongoDB
 3)	Create a dashboard using HTML, CSS, and JavaScript with navigational menus
 4)	Display the data by categories of ride type, and defunct or not (if time permits)
-
-If time permits:
 5)	Use amusement park accident dataset (https://saferparksdata.org/) as another interactive page and create a d3.js plot
 6)	Map amusement parks in the United States using JavaScript
 
