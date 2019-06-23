@@ -19,3 +19,8 @@ The objective is to collect data on amusement parks, their rides, categories of 
 5)	Use amusement park accident dataset (https://saferparksdata.org/) as another interactive page and create a d3.js plot
 6)	Map amusement parks in the United States using JavaScript
 
+### ****NOTE****
+
+This repository does not include all of the code or the datasets used or stored. This is a demo of code where a web scrape was used to collect the amusement park data,and various programming and visualization tools were also demonstrated here. Additionally, some static index (HTML) pages are not included in this repository since this was a part of a presentation where the static pages were to make the presentation...well, a presentation. The purpose of the repository is to demonstrate my ability to use Python, JavaScript, flask, mapping, charting, and HTML/CSS/Bootstrap dynamically.
+
+
